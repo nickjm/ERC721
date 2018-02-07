@@ -1,4 +1,4 @@
-#ERC721 Implementation
+# ERC721 Implementation
 
 This project, really just the file `ERC721Deed.sol` implements the latest draft of the ERC721 standard (all 3 interfaces).
 
@@ -6,6 +6,6 @@ It is based on the OpenZeppelin implementation `ERC721Token` -- it adapts that c
 
 Feel free to flag issues and make Pull Requests if something looks amiss.
 
-##TODO
+## TODO
 
 One of the functions is left to the child to implement (`deedURI`) and the last Enumerable function is not yet implemented. It might make sense to leave that to children as well.
